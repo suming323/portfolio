@@ -92,7 +92,7 @@ a:hover{ font-weight:bold; }
 .skill-txt dd{ line-height:1.5em; color:#666; padding-left:30px; }
 
 .portfolio-wrap h1{ margin:100px 0; font-size:2em; text-align:center; }
-.portfolio{ display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; opacity: 0; transition: .25s }
+.portfolio{ display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1rem; transition: .25s }
 .portfolio li{ overflow: hidden; background: #eee; padding-top: 50%; padding-bottom: 50%; border-radius: .5rem; }
 
 
